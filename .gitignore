@@ -1,0 +1,35 @@
+#OS X
+.DS_Store
+Icon?
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+#Flex/Flash
+
+# Build Dir
+out/
+bin/
+bin-release/
+bin-debug/
+
+# Project property files
+.actionScriptProperties
+.flexProperties
+.settings/
+.project
+
+#IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+
+#TextMate
+*.tmproj
+*.tmproject
+tmtags
